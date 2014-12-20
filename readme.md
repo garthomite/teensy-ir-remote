@@ -2,7 +2,7 @@
 
 I wanted a way to use my old cable box remote with Kodi/XBMC but apparently Kodi for android doesn't support it yet.
 
-So I just added a IR receiver to pin 12 and converted the button input and mapped them to keyboard commands that Kodi does understand 
+So I just added a IR receiver to pin 12 and using this ghetto sketch I convert the button input and map them to keyboard commands that Kodi does understand 
 
 ## Learning your remote
 
